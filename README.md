@@ -1,4 +1,4 @@
-# Energy-conservation-in-air-conditioner-using-reinforcement-learning
+# Energy-conservation-in-air-conditioner-using-ML and RL
 This project implements a smart, energy-efficient air conditioner (AC) control system using Machine Learning (ML) and Reinforcement Learning (RL). It reads historical and real-time temperature data, detects room occupancy, and adjusts the AC/fan settings to reduce energy consumption while maintaining comfor
 
 Features
